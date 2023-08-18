@@ -1,0 +1,8 @@
+coverage/
+
+.gitignore
+index.ts
+index.test.ts
+jest.config.js
+tsconfig.build.json
+tsconfig.json

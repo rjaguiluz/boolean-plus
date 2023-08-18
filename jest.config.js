@@ -13,7 +13,7 @@ module.exports = {
     collectCoverage: true,
     coverageReporters: ['json', 'lcov', 'text', 'clover'],
     coverageDirectory: 'coverage',
-    collectCoverageFrom: ['src/**/*.ts'],
+    collectCoverageFrom: ['*.ts'],
     coverageThreshold: {
         global: {
             branches: 80,
