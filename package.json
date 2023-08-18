@@ -2,8 +2,10 @@
     "name": "boolean-plus",
     "version": "1.0.0",
     "description": "easy-to-use bulk boolean operations",
-    "main": "index.ts",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
     "scripts": {
+        "build": "tsc",
         "test": "jest",
         "test:cov": "jest --coverage"
     },
