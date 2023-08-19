@@ -11,7 +11,7 @@ npm install boolean-plus
 You can just import the module "boolean-plus" ad using function AND, NAND, OR, NOR, XOR, XNOR or NOT 
 
 ```javascript
-import { AND, NAND, NOR, OR, XOR, XNOR, NOT } from './index'
+import { AND, NAND, NOR, OR, XOR, XNOR, NOT } from 'boolean-plus'
 
 AND(true, true, true, ...) => return true
 AND(true, false, true, ...) => return false
