@@ -1,6 +1,6 @@
 {
     "name": "boolean-plus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "easy-to-use bulk boolean operations",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
